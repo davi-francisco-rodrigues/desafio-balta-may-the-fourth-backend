@@ -19,7 +19,6 @@ Davi Francisco [/KingOfTheHunt](https://github.com/KingOfTheHunt)
 * Edson Candido [/edsonlcandido](https://github.com/edsonlcandido)
 * Rafael Travagin [/Rafael-Travagin](https://github.com/Rafael-Travagin)
 * Vitor Gabriel [/vgabriel10](https://github.com/vgabriel10)
-* [NOME e GITHUB]
 
 ## ⚙️ Tecnologias
 * C# 12
